@@ -1,0 +1,13 @@
+{
+	"liveServer.settings.port": 5501,
+	"prettier.bracketSameLine": true,
+	"prettier.enableDebugLogs": true,
+	"prettier.endOfLine": "auto",
+	"prettier.insertPragma": true,
+	"prettier.proseWrap": "always",
+	"prettier.requireConfig": true,
+	"prettier.requirePragma": true,
+	"prettier.vueIndentScriptAndStyle": true,
+	"prettier.useTabs": true,
+	"prettier.withNodeModules": true
+}
